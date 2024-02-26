@@ -1,8 +1,8 @@
-# MIS3007
-Subject: Information Systems Analysis and Design
+ # MIS3007
+                                          Subject: Information Systems Analysis and Design
 
-Project: ....
+                                        Project: CRM system at a clothing store - Boo Store
 
-Teacher: Cao Thị Nhâm
+                                                      Teacher: Cao Thị Nhâm
 
-Welcome to team 8
+                                                        Welcome to Team 8
